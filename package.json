@@ -1,0 +1,47 @@
+{
+  "name": "august-themes",
+  "displayName": "August Themes",
+  "description": "My favorite Visual Studio Code themes slightly modified",
+  "version": "0.0.1",
+  "publisher": "inci-august",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inci-august/august-themes"
+  },
+  "icon": "lavender.png",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "August - Nord",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-nord.json"
+      },
+      {
+        "label": "August - City Lights",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-city-lights.json"
+      },
+      {
+        "label": "August - Rouge",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-rouge.json"
+      },
+      {
+        "label": "August - Night Owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-night-owl.json"
+      },
+      {
+        "label": "August - Radical",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-radical.json"
+      }
+    ]
+  }
+}
