@@ -2,6 +2,12 @@
 
 My favorite **Visual Studio Code** themes slightly modified.
 
+<img style="min-width: 600px; width: 600px;" src="imgs/august-city-lights.png" />
+<img style="min-width: 600px; width: 600px;" src="imgs/august-night-owl.png" />
+<img style="min-width: 600px; width: 600px;" src="imgs/august-nord.png" />
+<img style="min-width: 600px; width: 600px;" src="imgs/august-radical.png" />
+<img style="min-width: 600px; width: 600px;" src="imgs/august-rouge.png" />
+
 ## Credits
 
 [City Lights](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-theme)
@@ -16,4 +22,6 @@ My favorite **Visual Studio Code** themes slightly modified.
 
 <br>
 
+🔠 Font used in demos - [Gintronic](https://bboxtype.com/typefaces/Gintronic/#!layout=specimen)
+<br>
 🌸 Icon by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com/)
