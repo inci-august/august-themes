@@ -9,9 +9,9 @@
     "activityBarBadge.foreground": "#272c36",
     "badge.background": "#88c0d0",
     "badge.foreground": "#272c36",
-    "breadcrumb.foreground": "#d8dee9",
-    "breadcrumb.background": "#272c36",
     "breadcrumb.activeSelectionForeground": "#d8dee9",
+    "breadcrumb.background": "#272c36",
+    "breadcrumb.foreground": "#d8dee9",
     "breadcrumbPicker.background": "#272c36",
     "button.background": "#434c5e",
     "button.foreground": "#d8dee9",
@@ -314,7 +314,10 @@
     },
     {
       "name": "Entity Name Class/Type",
-      "scope": ["entity.name.class", "entity.name.type.class"],
+      "scope": [
+        "entity.name.class",
+        "entity.name.type.class"
+      ],
       "settings": {
         "foreground": "#8FBCBB"
       }
@@ -1086,7 +1089,9 @@
     },
     {
       "name": "[Python] Function Parameter",
-      "scope": ["source.python variable.parameter.function.language"],
+      "scope": [
+        "source.python variable.parameter.function.language"
+      ],
       "settings": {
         "foreground": "#D8DEE9"
       }
@@ -1184,7 +1189,10 @@
     },
     {
       "name": "[TypeScript] Variables",
-      "scope": ["source.ts support.variable", "source.tsx support.variable"],
+      "scope": [
+        "source.ts support.variable",
+        "source.tsx support.variable"
+      ],
       "settings": {
         "foreground": "#D8DEE9"
       }
