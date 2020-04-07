@@ -2,7 +2,7 @@
   "name": "august-themes",
   "displayName": "August Themes",
   "description": "My favorite Visual Studio Code themes slightly modified",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "inci-august",
   "repository": {
     "type": "git",
