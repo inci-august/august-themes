@@ -24,4 +24,4 @@ My favorite **Visual Studio Code** themes slightly modified.
 
 🔠 Font used in demos - [Gintronic](https://bboxtype.com/typefaces/Gintronic/#!layout=specimen)
 <br>
-🌸 Icon by [Freepik](https://www.flaticon.com/authors/freepik) from [Flaticon](https://www.flaticon.com/)
+🌸 <a target="_blank" href="https://icons8.com/icons/set/picture-in-picture">Picture in Picture</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
