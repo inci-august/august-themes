@@ -1,7 +1,7 @@
 {
   "name": "august-themes",
   "displayName": "August Themes",
-  "description": "My favorite Visual Studio Code themes slightly modified",
+  "description": "‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧ Beautiful Visual Studio Code themes modified to ~~almost~~ perfection ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧",
   "version": "0.0.4",
   "publisher": "inci-august",
   "license": "MIT",
@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/inci-august/august-themes"
   },
-  "icon": "themes.png",
+  "icon": "wind.png",
   "engines": {
     "vscode": "^1.43.0"
   },
