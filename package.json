@@ -4,6 +4,7 @@
   "description": "My favorite Visual Studio Code themes slightly modified",
   "version": "0.0.4",
   "publisher": "inci-august",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/inci-august/august-themes"
