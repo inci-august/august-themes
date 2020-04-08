@@ -41,6 +41,11 @@
         "label": "August - Radical",
         "uiTheme": "vs-dark",
         "path": "./themes/august-radical.json"
+      },
+      {
+        "label": "August - Base2Tone (Drawbridge)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-base2tone-drawbridge.json"
       }
     ]
   }
