@@ -4,6 +4,20 @@ All notable changes to the "august-themes" extension will be documented in this 
 
 ## **`[Unreleased]`**
 
+## **`[0.1.0]` - `2020.04.08`**
+
+### Added
+
+- modified version of base2tone drawbridge theme ✨
+- screenshot for new theme
+- license information
+
+### Changed
+
+- theme icon
+- some colors in themes
+- screenshot for radical theme
+
 ## **`[0.0.2]` - `2020.04.07`**
 
 ### Changed
@@ -15,3 +29,12 @@ All notable changes to the "august-themes" extension will be documented in this 
 ## **`[0.0.1]` - `2020.04.06`**
 
 - 🎉 initial release
+
+<!--
+### Added (for new features)
+### Changed (for changes in existing functionality)
+### Deprecated (for soon-to-be removed features)
+### Removed (for now removed features)
+### Fixed (for any bug fixes)
+### Security (in case of vulnerabilities)
+-->
