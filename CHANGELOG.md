@@ -4,6 +4,13 @@ All notable changes to the "august-themes" extension will be documented in this 
 
 ## **`[Unreleased]`**
 
+## **`[0.1.3]` - `2020.04.11`**
+
+### Changed
+
+- some colors in themes
+- demo screenshots
+
 ## **`[0.1.0]` - `2020.04.08`**
 
 ### Added
