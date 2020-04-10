@@ -37,9 +37,10 @@
     "editor.foreground": "#b8cdfe",
     "editor.hoverHighlightBackground": "#1b1f32",
     "editor.inactiveSelectionBackground": "#252a4199",
-    "editor.lineHighlightBackground": "#1b1f32",
+    "editor.lineHighlightBackground": "#1b1f3299",
+    "editor.lineHighlightBorder": "#1b1f32",
     "editor.rangeHighlightBackground": "#252a41",
-    "editor.selectionBackground": "#252a41",
+    "editor.selectionBackground": "#1b1f32",
     "editor.selectionHighlightBackground": "#252a41",
     "editor.wordHighlightBackground": "#252a41",
     "editor.wordHighlightStrongBackground": "#252a41",
@@ -121,7 +122,7 @@
     "list.highlightForeground": "#75d5f0",
     "list.hoverBackground": "#1b1f32",
     "list.hoverForeground": "#75d5f0",
-    "list.inactiveSelectionBackground": "#1b1f32",
+    "list.inactiveSelectionBackground": "#131520",
     "list.inactiveSelectionForeground": "#b8cdfe",
     "list.invalidItemForeground": "#7289fd",
     "list.warningForeground": "#7289fd",
@@ -179,6 +180,7 @@
     "statusBar.border": "#131520",
     "statusBar.debuggingBackground": "#131520",
     "statusBar.debuggingBorder": "#33abcc",
+    "statusBar.debuggingForeground": "#b8cdfe",
     "statusBar.foreground": "#b8cdfe77",
     "statusBar.noFolderBackground": "#131520",
     "statusBar.noFolderBorder": "#131520",
@@ -224,7 +226,7 @@
     "titleBar.activeForeground": "#b8cdfecc",
     "titleBar.inactiveBackground": "#131520",
     "titleBar.inactiveForeground": "#b8cdfe99",
-    "tree.indentGuidesStroke": "#b8cdfe55",
+    "tree.indentGuidesStroke": "#b8cdfe33",
     "walkThrough.embeddedEditorBackground": "#131520",
     "welcomePage.buttonBackground": "#131520",
     "welcomePage.buttonHoverBackground": "#131520",
@@ -285,7 +287,8 @@
     {
       "scope": "keyword, modifier, variable.language.this, support.type.object, constant.language",
       "settings": {
-        "foreground": "#516aec"
+        "foreground": "#516aec",
+        "fontStyle": "italic"
       }
     },
     {
