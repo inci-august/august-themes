@@ -2,8 +2,7 @@
 
 # August Themes
 
-![August Themes: Version](https://flat.badgen.net/vs-marketplace/v/inci-august.august-themes) &nbsp;
-![August Themes: Installs](https://flat.badgen.net/vs-marketplace/i/inci-august.august-themes)
+[![August Themes: Version](https://flat.badgen.net/vs-marketplace/v/inci-august.august-themes)](https://tinyurl.com/spke67q)
 
 🌬 ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧ Beautiful **Visual Studio Code** themes modified to ~~almost~~ perfection ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧
 
