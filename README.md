@@ -8,12 +8,12 @@
 
   <br>
 
-  <img width="450px" height="auto" src="imgs/august-base2tone-drawbridge.png" />
-  <img width="450px" height="auto" src="imgs/august-radical.png" />
-  <img width="450px" height="auto" src="imgs/august-night-owl.png" />
-  <img width="450px" height="auto" src="imgs/august-rouge.png" />
-  <img width="450px" height="auto" src="imgs/august-city-lights.png" />
-  <img width="450px" height="auto" src="imgs/august-nord.png" />
+  <img width="750px" height="auto" src="imgs/august-base2tone-drawbridge.png" />
+  <img width="750px" height="auto" src="imgs/august-radical.png" />
+  <img width="750px" height="auto" src="imgs/august-night-owl.png" />
+  <img width="750px" height="auto" src="imgs/august-rouge.png" />
+  <img width="750px" height="auto" src="imgs/august-city-lights.png" />
+  <img width="750px" height="auto" src="imgs/august-nord.png" />
 
 </div>
 
