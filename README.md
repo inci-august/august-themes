@@ -4,7 +4,7 @@
 
 [![August Themes: Version](https://img.shields.io/visual-studio-marketplace/v/inci-august.august-themes?color=%23536DFE&label=VS%20Marketplace&logo=microsoft&logoColor=white&style=for-the-badge)](https://tinyurl.com/spke67q)
 
-🌬 ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧ Beautiful **Visual Studio Code** themes modified to ~~almost~~ perfection ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧
+🌬 ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧ **Visual Studio Code** themes modified to ~~almost~~ perfection ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧
 
   <br>
 
