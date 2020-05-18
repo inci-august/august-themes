@@ -4,6 +4,12 @@ All notable changes to the "august-themes" extension will be documented in this 
 
 ## **`[Unreleased]`**
 
+## **`[0.2.0]` - `2020.05.18`**
+
+### Added
+
+- alternate syntax highlighting for radical theme ✨
+
 ## **`[0.1.3]` - `2020.04.11`**
 
 ### Changed
