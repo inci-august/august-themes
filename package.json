@@ -1,7 +1,7 @@
 {
   "name": "august-themes",
   "displayName": "August Themes",
-  "description": "Beautiful Visual Studio Code themes modified to perfection ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧",
+  "description": "Visual Studio Code themes modified to perfection ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧",
   "version": "0.1.6",
   "publisher": "inci-august",
   "license": "MIT",
@@ -42,6 +42,11 @@
         "label": "August - Radical",
         "uiTheme": "vs-dark",
         "path": "./themes/august-radical.json"
+      },
+      {
+        "label": "August - Radical 2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-radical-2.json"
       },
       {
         "label": "August - Base2Tone (Drawbridge)",
