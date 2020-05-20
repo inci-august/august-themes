@@ -601,6 +601,18 @@
       }
     },
     {
+      "scope": "markup.inline.raw.string.markdown",
+      "settings": {
+        "foreground": "#BAF7FC"
+      }
+    },
+    {
+      "scope": "punctuation.definition.raw.markdown",
+      "settings": {
+        "foreground": "#D5358F"
+      }
+    },
+    {
       "scope": "markup.bold.markdown",
       "settings": {
         "foreground": "#74A39D",
