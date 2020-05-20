@@ -482,9 +482,16 @@
       }
     },
     {
-      "scope": "meta.paragraph.markdown",
+      "scope": "markup.quote.markdown",
       "settings": {
-        "foreground": "#BCCFCF"
+        "foreground": "#48676A",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "scope": "punctuation.definition.quote.begin.markdown",
+      "settings": {
+        "foreground": "#D5358F"
       }
     },
     {
