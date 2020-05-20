@@ -4,6 +4,12 @@ All notable changes to the "august-themes" extension will be documented in this 
 
 ## **`[Unreleased]`**
 
+## **`[0.2.1]` - `2020.05.20`**
+
+### Changed
+
+- some colors for markdown syntax
+
 ## **`[0.2.0]` - `2020.05.18`**
 
 ### Added
