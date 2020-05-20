@@ -9,7 +9,7 @@
     "type": "git",
     "url": "https://github.com/inci-august/august-themes"
   },
-  "icon": "wind.png",
+  "icon": "paint.png",
   "engines": {
     "vscode": "^1.43.0"
   },

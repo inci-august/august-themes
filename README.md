@@ -2,7 +2,7 @@
 
 # August Themes
 
-[![August Themes: Version](https://img.shields.io/visual-studio-marketplace/v/inci-august.august-themes?color=%23536DFE&label=VS%20Marketplace&logo=microsoft&logoColor=white&style=for-the-badge)](https://tinyurl.com/spke67q)
+[![August Themes: Version](https://img.shields.io/visual-studio-marketplace/v/inci-august.august-themes?color=%2373aacf&label=VS%20Marketplace&logo=microsoft&logoColor=%2373aacf&style=for-the-badge)](https://tinyurl.com/spke67q)
 
 🌬 ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧ **Visual Studio Code** themes modified to ~~almost~~ perfection ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧
 
@@ -45,4 +45,4 @@
 
 🔠 Font used in demos - [Gintronic](https://bboxtype.com/typefaces/Gintronic/#!layout=specimen)
 <br>
-🌸 Icon made by <a href="https://www.flaticon.com/authors/smashicons" title="Smashicons">Smashicons</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
+🌸 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
