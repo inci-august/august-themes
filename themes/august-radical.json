@@ -257,7 +257,7 @@
     "progressBar.background": "#602976",
     "quickInput.background": "#12111f",
     "quickInput.foreground": "#90b0b3",
-    "scrollbar.shadow": "#ff428e80",
+    "scrollbar.shadow": "#00000000",
     "scrollbarSlider.activeBackground": "#ff428e10",
     "scrollbarSlider.background": "#ff428e10",
     "scrollbarSlider.hoverBackground": "#ff428e10",
