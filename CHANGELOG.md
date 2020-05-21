@@ -4,6 +4,12 @@ All notable changes to the "august-themes" extension will be documented in this 
 
 ## **`[Unreleased]`**
 
+## **`[0.3.0]` - `2020.05.22`**
+
+### Added
+
+- ✨ arstotzka theme
+
 ## **`[0.2.1]` - `2020.05.20`**
 
 ### Changed
