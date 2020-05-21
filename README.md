@@ -2,18 +2,16 @@
 
 # August Themes
 
-[![August Themes: Version](https://img.shields.io/visual-studio-marketplace/v/inci-august.august-themes?color=%2373aacf&label=VS%20Marketplace&logo=microsoft&logoColor=%2373aacf&style=for-the-badge)](https://tinyurl.com/spke67q)
+[![August Themes: Version](https://img.shields.io/visual-studio-marketplace/v/inci-august.august-themes?colorA=4c566a&colorB=73aacf&label=Marketplace%20&logo=visual%20studio&style=for-the-badge)](https://tinyurl.com/spke67q)
 
-🌬 ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧ **Visual Studio Code** themes modified to ~~almost~~ perfection ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧
+🌬 ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧ Dark **Visual Studio Code** themes modified to ~~almost~~ perfection ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧
 
   <br>
 
-  <img width="750px" height="auto" src="imgs/august-base2tone-drawbridge.png" />
-  <img width="750px" height="auto" src="imgs/august-radical.png" />
-  <img width="750px" height="auto" src="imgs/august-night-owl.png" />
-  <img width="750px" height="auto" src="imgs/august-rouge.png" />
-  <img width="750px" height="auto" src="imgs/august-city-lights.png" />
-  <img width="750px" height="auto" src="imgs/august-nord.png" />
+| <img width="750px" height="auto" src="imgs/august-arstotzka.png" />   | <img width="750px" height="auto" src="imgs/august-radical.png" />   |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| <img width="750px" height="auto" src="imgs/august-drawbridge.png" />  | <img width="750px" height="auto" src="imgs/august-night-owl.png" /> |
+| <img width="750px" height="auto" src="imgs/august-city-lights.png" /> | <img width="750px" height="auto" src="imgs/august-nord.png" />      |
 
 </div>
 
