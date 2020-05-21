@@ -1,7 +1,7 @@
 {
   "name": "august-themes",
   "displayName": "August Themes",
-  "description": "Visual Studio Code themes modified to perfection ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧",
+  "description": "Dark Visual Studio Code themes modified to perfection ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧",
   "version": "0.2.3",
   "publisher": "inci-august",
   "license": "MIT",
@@ -18,6 +18,11 @@
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "August - Arstotzka",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-arstotzka.json"
+      },
       {
         "label": "August - Nord",
         "uiTheme": "vs-dark",
