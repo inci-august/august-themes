@@ -24,6 +24,16 @@
         "path": "./themes/august-arstotzka.json"
       },
       {
+        "label": "August - Arstotzka Darker",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-arstotzka-darker.json"
+      },
+      {
+        "label": "August - Arstotzka Darkest",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-arstotzka-darkest.json"
+      },
+      {
         "label": "August - Nord",
         "uiTheme": "vs-dark",
         "path": "./themes/august-nord.json"
