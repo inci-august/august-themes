@@ -213,7 +213,7 @@
     "terminal.background": "#272c36",
     "terminal.foreground": "#d8dee9",
     "terminal.selectionBackground": "#434c5e55",
-    "terminalCursor.background": "#8FBCBB",
+    "terminalCursor.background": "#8FBCBB22",
     "terminalCursor.foreground": "#8FBCBB",
     "textLink.activeForeground": "#8FBCBB",
     "textLink.foreground": "#8FBCBB",
