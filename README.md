@@ -32,6 +32,6 @@
   <span style="color: #fff">‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧</span>  When it is dark enough, you can see the stars. <span style="color: #fff">‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧</span>
 </p>
 
-<h4 style="letter-spacing: 1px; text-transform: uppercase"><a href="CREDITS.md" >Credits</a></h4>
+<h4 style="letter-spacing: 1px; text-transform: uppercase"><a href="https://tinyurl.com/yctt6ko8" >Credits</a></h4>
 
 </div>
