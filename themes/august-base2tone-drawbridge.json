@@ -457,6 +457,18 @@
       }
     },
     {
+      "scope": "markup.inserted",
+      "settings": {
+        "foreground": "#67c9e4"
+      }
+    },
+    {
+      "scope": "markup.deleted",
+      "settings": {
+        "foreground": "#ec407a"
+      }
+    },
+    {
       "scope": "text.html.markdown meta.link.inline, meta.link.reference",
       "settings": {
         "foreground": "#4961da"
@@ -516,6 +528,18 @@
       "scope": "punctuation.definition.comment.html",
       "settings": {
         "foreground": "#627af4aa"
+      }
+    },
+    {
+      "scope": "punctuation.definition.inserted",
+      "settings": {
+        "foreground": "#67c9e4"
+      }
+    },
+    {
+      "scope": "punctuation.definition.deleted",
+      "settings": {
+        "foreground": "#ec407a"
       }
     },
     {

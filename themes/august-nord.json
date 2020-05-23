@@ -411,14 +411,19 @@
     },
     {
       "name": "Markup Deleted",
-      "scope": "markup.deleted",
+      "scope": [
+        "markup.deleted",
+        "punctuation.definition.deleted"
+      ],
       "settings": {
         "foreground": "#BF616A"
       }
     },
     {
       "name": "Markup Inserted",
-      "scope": "markup.inserted",
+      "scope": [
+        "markup.inserted"
+      ],
       "settings": {
         "foreground": "#A3BE8C"
       }
@@ -464,6 +469,24 @@
       ],
       "settings": {
         "foreground": "#4C566A"
+      }
+    },
+    {
+      "name": "Punctuation Definition Inserted",
+      "scope": [
+        "punctuation.definition.inserted"
+      ],
+      "settings": {
+        "foreground": "#A3BE8C"
+      }
+    },
+    {
+      "name": "Punctuation Definition Deleted",
+      "scope": [
+        "punctuation.definition.deleted"
+      ],
+      "settings": {
+        "foreground": "#BF616A"
       }
     },
     {

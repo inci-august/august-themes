@@ -452,6 +452,22 @@
       }
     },
     {
+      "scope": [
+        "markup.inserted"
+      ],
+      "settings": {
+        "foreground": "#6bf8ef"
+      }
+    },
+    {
+      "scope": [
+        "markup.deleted"
+      ],
+      "settings": {
+        "foreground": "#ff427b"
+      }
+    },
+    {
       "scope": "storage",
       "settings": {
         "foreground": "#D5358F"
@@ -492,6 +508,22 @@
       "scope": "punctuation.definition.quote.begin.markdown",
       "settings": {
         "foreground": "#D5358F"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.inserted"
+      ],
+      "settings": {
+        "foreground": "#6bf8ef"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.deleted"
+      ],
+      "settings": {
+        "foreground": "#ff427b"
       }
     },
     {

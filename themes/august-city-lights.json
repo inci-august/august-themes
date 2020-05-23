@@ -762,6 +762,24 @@
       }
     },
     {
+      "name": "[MARKDOWN] - Inserted Diff",
+      "scope": [
+        "markup.inserted"
+      ],
+      "settings": {
+        "foreground": "#33CED8"
+      }
+    },
+    {
+      "name": "[MARKDOWN] - Deleted Diff",
+      "scope": [
+        "markup.deleted"
+      ],
+      "settings": {
+        "foreground": "#b62d65"
+      }
+    },
+    {
       "name": "[JAVASCRIPT] - Punctuation",
       "scope": [
         "punctuation.definition.template-expression",
@@ -770,6 +788,24 @@
       "settings": {
         "foreground": "#d98e48"
       }
-    }
+    },
+    {
+      "name": "[PUNCTUATION] - Inserted",
+      "scope": [
+        "punctuation.definition.inserted"
+      ],
+      "settings": {
+        "foreground": "#33CED8"
+      }
+    },
+    {
+      "name": "[PUNCTUATION] - Deleted",
+      "scope": [
+        "punctuation.definition.deleted"
+      ],
+      "settings": {
+        "foreground": "#b62d65"
+      }
+    },
   ]
 }

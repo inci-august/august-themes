@@ -347,6 +347,24 @@
       }
     },
     {
+      "name": "Punctuation Definition Inserted",
+      "scope": [
+        "punctuation.definition.inserted"
+      ],
+      "settings": {
+        "foreground": "#9BBA9A"
+      }
+    },
+    {
+      "name": "Punctuation Definition Deleted",
+      "scope": [
+        "punctuation.definition.deleted"
+      ],
+      "settings": {
+        "foreground": "#CC565EDF"
+      }
+    },
+    {
       "name": "Support",
       "scope": "support",
       "settings": {

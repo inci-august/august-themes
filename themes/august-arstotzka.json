@@ -453,6 +453,18 @@
       }
     },
     {
+      "scope": "markup.inserted",
+      "settings": {
+        "foreground": "#8bdbc2"
+      }
+    },
+    {
+      "scope": "markup.deleted",
+      "settings": {
+        "foreground": "#a62828"
+      }
+    },
+    {
       "scope": "storage",
       "settings": {
         "foreground": "#a2a797"
@@ -556,6 +568,18 @@
       ],
       "settings": {
         "foreground": "#425262"
+      }
+    },
+    {
+      "scope": "punctuation.definition.inserted",
+      "settings": {
+        "foreground": "#8bdbc2"
+      }
+    },
+    {
+      "scope": "punctuation.definition.deleted",
+      "settings": {
+        "foreground": "#a62828"
       }
     },
     {
