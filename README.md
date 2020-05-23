@@ -8,9 +8,7 @@
 
 [![August Themes: Version](https://img.shields.io/visual-studio-marketplace/v/inci-august.august-themes?colorA=00bcf2&colorB=69eaff&label=Marketplace%20&logo=visual%20studio&style=for-the-badge)](https://tinyurl.com/spke67q)
 
-<h4 style="letter-spacing: 0.5px">
-  <span style="color: #fff">‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧</span>  Dark **Visual Studio Code** themes modified to ~~almost~~ perfection <span style="color: #fff">‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧</span>
-</h4>
+<p style="letter-spacing: 0.5px"><span style="color: #fff">‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧</span>  Dark **Visual Studio Code** themes modified to ~~almost~~ perfection <span style="color: #fff">‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧</span></p>
 
 <br>
 
@@ -30,9 +28,9 @@
 
 <img width="750px" height="auto" src="imgs/august-arstotzka.png" />
 
-<h5 style="letter-spacing: 0.5px">
+<p style="letter-spacing: 0.5px">
   <span style="color: #fff">‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧</span>  When it is dark enough, you can see the stars. <span style="color: #fff">‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧</span>
-</h5>
+</p>
 
 <h4 style="letter-spacing: 1px; text-transform: uppercase"><a href="CREDITS.md" >Credits</a></h4>
 
