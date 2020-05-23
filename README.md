@@ -1,46 +1,39 @@
 <div align="center">
 
-# August Themes
+<img width="180px" height="auto" src="night.png" />
 
-[![August Themes: Version](https://img.shields.io/visual-studio-marketplace/v/inci-august.august-themes?colorA=4c566a&colorB=73aacf&label=Marketplace%20&logo=visual%20studio&style=for-the-badge)](https://tinyurl.com/spke67q)
+<br>
 
-🌬 ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧ Dark **Visual Studio Code** themes modified to ~~almost~~ perfection ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧
+<h1 style="border-bottom: none; text-transform: uppercase; letter-spacing: 4px";>August Themes</h1>
 
-  <br>
+[![August Themes: Version](https://img.shields.io/visual-studio-marketplace/v/inci-august.august-themes?colorA=00bcf2&colorB=69eaff&label=Marketplace%20&logo=visual%20studio&style=for-the-badge)](https://tinyurl.com/spke67q)
 
-| <img width="750px" height="auto" src="imgs/august-arstotzka.png" />   | <img width="750px" height="auto" src="imgs/august-radical.png" />   |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| <img width="750px" height="auto" src="imgs/august-drawbridge.png" />  | <img width="750px" height="auto" src="imgs/august-night-owl.png" /> |
-| <img width="750px" height="auto" src="imgs/august-city-lights.png" /> | <img width="750px" height="auto" src="imgs/august-nord.png" />      |
+<h3 style="letter-spacing: 0.5px">
+  <span style="color: #fff">‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧</span>  Dark **Visual Studio Code** themes modified to ~~almost~~ perfection <span style="color: #fff">‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧</span>
+</h3>
+
+<br>
+
+<h3 style="letter-spacing: 2px; text-transform: uppercase">Drawbridge</h3>
+
+<img width="750px" height="auto" src="imgs/august-drawbridge.png" />
+
+<h3 style="letter-spacing: 2px; text-transform: uppercase">Radical</h3>
+
+<img width="750px" height="auto" src="imgs/august-radical.png" />
+
+<h3 style="letter-spacing: 2px; text-transform: uppercase">City Lights</h3>
+
+<img width="750px" height="auto" src="imgs/august-city-lights.png" />
+
+<h3 style="letter-spacing: 2px; text-transform: uppercase">Arstotzka</h3>
+
+<img width="750px" height="auto" src="imgs/august-arstotzka.png" />
+
+<h3 style="letter-spacing: 0.5px">
+  <span style="color: #fff">‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧</span>  When it is dark enough, you can see the stars. <span style="color: #fff">‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧</span>
+</h3>
+
+<h3 style="letter-spacing: 1px; text-transform: uppercase"><a href="CREDITS.md" >Credits</a></h3>
 
 </div>
-
-## Installation
-
-1.  Install [Visual Studio Code](https://code.visualstudio.com/)
-2.  Launch Visual Studio Code
-3.  Choose **Extensions** from menu
-4.  Search for `august themes`
-5.  Click **Install** to install it
-6.  Click **Reload** to reload the Code
-7.  From the menu bar click: Code > Preferences > Color Theme > **August - [version]**
-
-## Credits
-
-[Base2Tone](https://marketplace.visualstudio.com/items?itemName=Atelierbram.base2tone-vscode-themes)
-<br>
-[City Lights](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-theme)
-<br>
-[Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
-<br>
-[Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
-<br>
-[Radical](https://marketplace.visualstudio.com/items?itemName=dhedgecock.radical-vscode)
-<br>
-[Rouge](https://marketplace.visualstudio.com/items?itemName=josef.rouge-theme)
-
-<br>
-
-🔠 Font used in demos - [Gintronic](https://bboxtype.com/typefaces/Gintronic/#!layout=specimen)
-<br>
-🌸 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
