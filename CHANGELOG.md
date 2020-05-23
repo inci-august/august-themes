@@ -4,6 +4,18 @@ All notable changes to the "august-themes" extension will be documented in this 
 
 ## **`[Unreleased]`**
 
+## **`[1.0.0]` - `2020.05.24`**
+
+### Added
+
+- ✨ gruvbox theme
+- ✨ material palenight theme
+- ✨ material ocean theme
+
+### Changed
+
+- syntax highlighting for diff
+
 ## **`[0.4.0]` - `2020.05.22`**
 
 ### Added

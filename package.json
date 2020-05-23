@@ -1,15 +1,15 @@
 {
   "name": "august-themes",
   "displayName": "August Themes",
-  "description": "Dark Visual Studio Code themes modified to perfection ‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧",
-  "version": "0.4.2",
+  "description": "Dark Visual Studio Code themes modified to perfection",
+  "version": "1.0.0",
   "publisher": "inci-august",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/inci-august/august-themes"
   },
-  "icon": "paint.png",
+  "icon": "night.png",
   "engines": {
     "vscode": "^1.43.0"
   },
@@ -67,6 +67,21 @@
         "label": "August - Base2Tone (Drawbridge)",
         "uiTheme": "vs-dark",
         "path": "./themes/august-base2tone-drawbridge.json"
+      },
+      {
+        "label": "August - Material Palenight",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-material-palenight.json"
+      },
+      {
+        "label": "August - Material Ocean",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-material-ocean.json"
+      },
+      {
+        "label": "August - Gruvbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-gruvbox.json"
       }
     ]
   }
