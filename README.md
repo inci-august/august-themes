@@ -27,7 +27,7 @@
 <h4 style="letter-spacing: 2px; text-transform: uppercase">Arstotzka</h4>
 
 <img width="750px" height="auto" src="imgs/august-arstotzka.png" />
-
+<h3></h3>
 <p style="letter-spacing: 0.5px">
   <span style="color: #fff">‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧</span>  When it is dark enough, you can see the stars. <span style="color: #fff">‧˙ᕀ ✧‧˙༝‧ ᣞ ᱸ༝ ∘ ‧</span>
 </p>
