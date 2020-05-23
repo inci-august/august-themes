@@ -2,7 +2,7 @@
 
 - [Base2Tone](https://marketplace.visualstudio.com/items?itemName=Atelierbram.base2tone-vscode-themes)
 - [City Lights](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-theme)
-- [Gruvbox](<[url](https://github.com/jdinhify/vscode-theme-gruvbox)>)
+- [Gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox)
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
 - [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
 - [Material](https://github.com/material-theme/vsc-material-theme)
