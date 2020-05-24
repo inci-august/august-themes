@@ -1,7 +1,7 @@
 {
   "name": "august-themes",
   "displayName": "August Themes",
-  "description": "‧˙ᕀ✧ᱸ༝ Dark Visual Studio Code themes modified to perfection.‧˙ᕀ✧ᱸ༝",
+  "description": "‧ ˙ᕀ ✧ᱸ༝ ‧ Dark Visual Studio Code themes modified to perfection‧ ˙ᕀ ✧ᱸ༝ ‧",
   "version": "1.0.3",
   "publisher": "inci-august",
   "license": "MIT",
@@ -24,14 +24,29 @@
         "path": "./themes/august-arstotzka.json"
       },
       {
-        "label": "August - Arstotzka Darker",
+        "label": "August - Arstotzka (Lighter)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-arstotzka-lighter.json"
+      },
+      {
+        "label": "August - Arstotzka (Darker)",
         "uiTheme": "vs-dark",
         "path": "./themes/august-arstotzka-darker.json"
       },
       {
-        "label": "August - Arstotzka Darkest",
+        "label": "August - Arstotzka 2",
         "uiTheme": "vs-dark",
-        "path": "./themes/august-arstotzka-darkest.json"
+        "path": "./themes/august-arstotzka-2.json"
+      },
+      {
+        "label": "August - Arstotzka 2 (Lighter)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-arstotzka-2-lighter.json"
+      },
+      {
+        "label": "August - Arstotzka 2 (Darker)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-arstotzka-2-darker.json"
       },
       {
         "label": "August - Nord",
@@ -39,19 +54,29 @@
         "path": "./themes/august-nord.json"
       },
       {
+        "label": "August - Nord (Darker)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-nord-darker.json"
+      },
+      {
         "label": "August - City Lights",
         "uiTheme": "vs-dark",
         "path": "./themes/august-city-lights.json"
       },
       {
-        "label": "August - Rouge",
+        "label": "August - City Lights (Darker)",
         "uiTheme": "vs-dark",
-        "path": "./themes/august-rouge.json"
+        "path": "./themes/august-city-lights-darker.json"
       },
       {
         "label": "August - Night Owl",
         "uiTheme": "vs-dark",
         "path": "./themes/august-night-owl.json"
+      },
+      {
+        "label": "August - Night Owl (Darker)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-night-owl-darker.json"
       },
       {
         "label": "August - Radical",
@@ -64,9 +89,14 @@
         "path": "./themes/august-radical-2.json"
       },
       {
-        "label": "August - Base2Tone (Drawbridge)",
+        "label": "August - Drawbridge",
         "uiTheme": "vs-dark",
-        "path": "./themes/august-base2tone-drawbridge.json"
+        "path": "./themes/august-drawbridge.json"
+      },
+      {
+        "label": "August - Drawbridge (Darker)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-drawbridge-darker.json"
       },
       {
         "label": "August - Material Palenight",
@@ -82,6 +112,11 @@
         "label": "August - Gruvbox",
         "uiTheme": "vs-dark",
         "path": "./themes/august-gruvbox.json"
+      },
+      {
+        "label": "August - Gruvbox (Darker)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-gruvbox-darker.json"
       }
     ]
   }
