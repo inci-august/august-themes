@@ -4,6 +4,16 @@ All notable changes to the "august-themes" extension will be documented in this 
 
 ## **`[Unreleased]`**
 
+## **`[2.0.0]` - `2020.05.25`**
+
+### Added
+
+- ✨ darker versions of themes
+
+### Removed
+
+- 🍂 rouge theme
+
 ## **`[1.0.0]` - `2020.05.24`**
 
 ### Added
