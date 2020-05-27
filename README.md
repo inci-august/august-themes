@@ -36,7 +36,7 @@
 
 <img width="750px" height="auto" src="imgs/august-nord.png" />
 
-<p style="letter-spacing: 0.5px"><span style="color: #fff">‧ ˙ᕀ ✧ᱸ༝ ‧</span>  When it is dark enough, you can see the stars <span style="color: #fff">‧ ˙ᕀ ✧ᱸ༝ ‧</span></p>
+<h5 style="letter-spacing: 0.5px"><span style="color: #fff">‧ ˙ᕀ ✧ᱸ༝ ‧</span>  When it is dark enough, you can see the stars <span style="color: #fff">‧ ˙ᕀ ✧ᱸ༝ ‧</span></h5>
 
 <h4 style="letter-spacing: 2px; text-transform: uppercase"><a href="https://tinyurl.com/yctt6ko8" >Credits</a></h4>
 
