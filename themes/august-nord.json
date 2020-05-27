@@ -170,6 +170,8 @@
     "sideBarSectionHeader.background": "#272c36",
     "sideBarSectionHeader.foreground": "#7b88a1",
     "sideBarTitle.foreground": "#7b88a1",
+    "editor.snippetFinalTabstopHighlightBorder": "#7b88a1",
+    "editor.snippetTabstopHighlightBackground": "#7b88a155",
     "statusBar.background": "#272c36",
     "statusBar.border": "#3b425200",
     "statusBar.debuggingBackground": "#434c5e",
