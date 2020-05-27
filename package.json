@@ -2,7 +2,7 @@
   "name": "august-themes",
   "displayName": "August Themes",
   "description": "‧ ˙ᕀ ✧ᱸ༝ ‧ Dark Visual Studio Code themes modified to perfection‧ ˙ᕀ ✧ᱸ༝ ‧",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "publisher": "inci-august",
   "license": "MIT",
   "repository": {
@@ -15,6 +15,20 @@
   },
   "categories": [
     "Themes"
+  ],
+  "keyword": [
+    "Theme",
+    "Dark Theme",
+    "Black Theme",
+    "Arstotzka Theme",
+    "City Lights Theme",
+    "Duotone Theme",
+    "Drawbridge Theme",
+    "Gruvbox Theme",
+    "Night Owl Theme",
+    "Nord Theme",
+    "Papers, Please Theme",
+    "Radical Theme"
   ],
   "contributes": {
     "themes": [

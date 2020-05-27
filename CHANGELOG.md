@@ -4,6 +4,12 @@ All notable changes to the "august-themes" extension will be documented in this 
 
 ## **`[Unreleased]`**
 
+## **`[2.0.2]` - `2020.05.27`**
+
+### Added
+
+- git status colors to overview ruler
+
 ## **`[2.0.0]` - `2020.05.25`**
 
 ### Added
