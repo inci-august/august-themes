@@ -8,7 +8,7 @@
 
 [![August Themes: Version](https://img.shields.io/visual-studio-marketplace/v/inci-august.august-themes?colorA=00bcf2&colorB=69eaff&label=Marketplace%20&logo=visual%20studio&style=for-the-badge)](https://tinyurl.com/spke67q)
 
-<p style="letter-spacing: 0.5px"><span style="color: #fff">‧ ˙ᕀ ✧ᱸ༝ ‧</span>  Dark <span style="font-weight: bold">Visual Studio Code</span> themes modified to <del>almost</del> perfection <span style="color: #fff">‧ ˙ᕀ ✧ᱸ༝ ‧</span></p>
+<p style="letter-spacing: 0.5px"><span style="color: #fff">‧ ˙ᕀ ✧ᱸ༝ ‧</span>  Dark <span style="font-weight: bold">Visual Studio Code</span> themes made even darker and  <del>almost</del> perfect <span style="color: #fff">‧ ˙ᕀ ✧ᱸ༝ ‧</span></p>
 
 <br>
 
@@ -20,10 +20,6 @@
 
 <img width="750px" height="auto" src="imgs/august-radical.png" />
 
-<h4 style="letter-spacing: 2px; text-transform: uppercase">City Lights</h4>
-
-<img width="750px" height="auto" src="imgs/august-city-lights.png" />
-
 <h4 style="letter-spacing: 2px; text-transform: uppercase">Material Ocean</h4>
 
 <img width="750px" height="auto" src="imgs/august-material-ocean.png" />
@@ -31,6 +27,16 @@
 <h4 style="letter-spacing: 2px; text-transform: uppercase">Arstotzka</h4>
 
 <img width="750px" height="auto" src="imgs/august-arstotzka.png" />
+
+<h4 style="letter-spacing: 2px; text-transform: uppercase">City Lights</h4>
+
+<img width="750px" height="auto" src="imgs/august-city-lights.png" />
+
+<h4 style="letter-spacing: 2px; text-transform: uppercase">Nord</h4>
+
+<img width="750px" height="auto" src="imgs/august-nord.png" />
+
+<p style="letter-spacing: 0.5px"><span style="color: #fff">‧ ˙ᕀ ✧ᱸ༝ ‧</span>  When it is dark enough, you can see the stars <span style="color: #fff">‧ ˙ᕀ ✧ᱸ༝ ‧</span></p>
 
 <h4 style="letter-spacing: 2px; text-transform: uppercase"><a href="https://tinyurl.com/yctt6ko8" >Credits</a></h4>
 
