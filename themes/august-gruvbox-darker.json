@@ -38,6 +38,7 @@
     "editorGroup.background": "#3c3836",
     "editorGroup.border": "#3c3836",
     "editorGroup.dropBackground": "#3c383660",
+    "editorGroup.emptyBackground": "#151718",
     "editorGroupHeader.noTabsBackground": "#3c3836",
     "editorGroupHeader.tabsBackground": "#151718",
     "editorGroupHeader.tabsBorder": "#3c383600",
