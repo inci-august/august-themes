@@ -232,6 +232,14 @@
       }
     },
     {
+      "scope": [
+        "punctuation.accessor"
+      ],
+      "settings": {
+        "foreground": "#5EC4FF"
+      }
+    },
+    {
       "name": "Constant",
       "scope": "constant",
       "settings": {

@@ -555,6 +555,14 @@
       }
     },
     {
+      "scope": [
+        "punctuation.accessor"
+      ],
+      "settings": {
+        "foreground": "#A2A797"
+      }
+    },
+    {
       "scope": "punctuation.definition.quote.begin.markdown",
       "settings": {
         "foreground": "#a62828"
