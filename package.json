@@ -28,7 +28,8 @@
     "Night Owl Theme",
     "Nord Theme",
     "Papers, Please Theme",
-    "Radical Theme"
+    "Radical Theme",
+    "In Bed By 7pm"
   ],
   "contributes": {
     "themes": [
@@ -91,6 +92,16 @@
         "label": "August - Night Owl (Darker)",
         "uiTheme": "vs-dark",
         "path": "./themes/august-night-owl-darker.json"
+      },
+      {
+        "label": "August - In Bed By 7pm",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-in-bed-by-7pm.json"
+      },
+      {
+        "label": "August - In Bed By 7pm (Darker)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-in-bed-by-7pm-darker.json"
       },
       {
         "label": "August - Radical",

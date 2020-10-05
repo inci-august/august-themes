@@ -4,6 +4,7 @@
 - [City Lights](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-theme)
 - [Gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox)
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+- [In Bed By 7pm](https://marketplace.visualstudio.com/items?itemName=sdras.inbedby7pm)
 - [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
 - [Material](https://github.com/material-theme/vsc-material-theme)
 - [Radical](https://marketplace.visualstudio.com/items?itemName=dhedgecock.radical-vscode)
