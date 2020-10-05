@@ -6,7 +6,7 @@
 
 <h1 style="border-bottom: none; text-transform: uppercase; letter-spacing: 4px";>August Themes</h1>
 
-[![August Themes: Version](https://img.shields.io/visual-studio-marketplace/v/inci-august.august-themes?colorA=00bcf2&colorB=69eaff&label=Marketplace%20&logo=visual%20studio&style=for-the-badge)](https://tinyurl.com/spke67q)
+[![August Themes: Version](https://img.shields.io/visual-studio-marketplace/v/inci-august.august-themes?colorA=00bcf2&colorB=00bcf2&label=Marketplace%20&logo=visual%20studio&style=for-the-badge)](https://tinyurl.com/spke67q)
 
 <p style="letter-spacing: 0.5px"><span style="color: #fff">‧ ˙ᕀ ✧ᱸ༝ ‧</span>  Dark <span style="font-weight: bold">Visual Studio Code</span> themes modified to <del>almost</del> perfection <span style="color: #fff">‧ ˙ᕀ ✧ᱸ༝ ‧</span></p>
 
