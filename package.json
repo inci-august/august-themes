@@ -64,6 +64,16 @@
         "path": "./themes/august-arstotzka-2-darker.json"
       },
       {
+        "label": "August - Arstotzka 2 (Darker)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-arstotzka-2-darker.json"
+      },
+      {
+        "label": "August - Ariake Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-ariake-dark.json"
+      },
+      {
         "label": "August - Nord",
         "uiTheme": "vs-dark",
         "path": "./themes/august-nord.json"

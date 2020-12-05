@@ -1,6 +1,7 @@
 <h1 style="border-bottom: none; letter-spacing: 1px; text-transform: uppercase";>Credits</h1>
 
 - [Base2Tone](https://marketplace.visualstudio.com/items?itemName=Atelierbram.base2tone-vscode-themes)
+- [Ariake Dark](https://marketplace.visualstudio.com/items?itemName=wart.ariake-dark)
 - [City Lights](https://marketplace.visualstudio.com/items?itemName=Yummygum.city-lights-theme)
 - [Gruvbox](https://github.com/jdinhify/vscode-theme-gruvbox)
 - [Night Owl](https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
