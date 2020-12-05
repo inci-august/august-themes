@@ -2,14 +2,18 @@
 
 All notable changes to the "august-themes" extension will be documented in this file.
 
-## **`[Unreleased]`**
+## **`[2.2.0]` - `2020.11.05`**
+
+### Added
+
+- ✨ ariake dark theme
 
 ## **`[2.1.0]` - `2020.10.05`**
 
 ### Added
 
-- ✨ In Bed By 7pm theme
-- ✨ In Bed By 7pm theme - darker version
+- ✨ in bed by 7pm theme
+- ✨ in bed by 7pm theme - darker version
 
 ## **`[2.0.2]` - `2020.05.27`**
 
