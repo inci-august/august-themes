@@ -320,6 +320,13 @@
       }
     },
     {
+      "name": "Punctuation",
+      "scope": "punctuation.definition",
+      "settings": {
+        "foreground": "#82AAFF"
+      }
+    },
+    {
       "name": "User-defined constant",
       "scope": [
         "constant.character",

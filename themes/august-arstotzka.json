@@ -569,6 +569,12 @@
       }
     },
     {
+      "scope": "punctuation.definition",
+      "settings": {
+        "foreground": "#a2a797"
+      }
+    },
+    {
       "scope": [
         "punctuation.definition.string.begin.markdown",
         "punctuation.definition.string.end.markdown",
@@ -623,9 +629,9 @@
       }
     },
     {
-      "scope": "markup.fenced_code.block.markdown",
+      "scope": "fenced_code.block.language.markdown",
       "settings": {
-        "foreground": "#516b6b"
+        "foreground": "#a2a797"
       }
     },
     {

@@ -623,9 +623,21 @@
       }
     },
     {
-      "scope": "markup.fenced_code.block.markdown",
+      "scope": "fenced_code.block.language.markdown",
       "settings": {
-        "foreground": "#516b6b"
+        "foreground": "#a62818"
+      }
+    },
+    {
+      "scope": "punctuation.definition",
+      "settings": {
+        "foreground": "#a62818"
+      }
+    },
+    {
+      "scope": "punctuation.section.embedded",
+      "settings": {
+        "foreground": "#a62818"
       }
     },
     {
@@ -635,9 +647,9 @@
       }
     },
     {
-      "scope": "meta.link.inline.markdown",
+      "scope": "meta.brace.round",
       "settings": {
-        "foreground": "#8bdbc2"
+        "foreground": "#a62818"
       }
     },
     {

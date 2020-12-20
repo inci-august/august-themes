@@ -41,7 +41,7 @@
     "editorBracketMatch.background": "#191c2200",
     "editorBracketMatch.border": "#dda2f655",
     "editorCodeLens.foreground": "#4c566a",
-    "editorCursor.foreground": "#d8dee9",
+    "editorCursor.foreground": "#dda2f6",
     "editorError.border": "#bf616a00",
     "editorError.foreground": "#bf616a",
     "editorGroup.border": "#272c3600",
@@ -50,7 +50,7 @@
     "editorGroupHeader.noTabsBackground": "#191c22",
     "editorGroupHeader.tabsBackground": "#191c22",
     "editorGroupHeader.tabsBorder": "#272c3600",
-    "editorGutter.addedBackground": "#a3be8c",
+    "editorGutter.addedBackground": "#9aefea",
     "editorGutter.background": "#191c22",
     "editorGutter.deletedBackground": "#bf616a",
     "editorGutter.modifiedBackground": "#ebcb8b",
@@ -97,7 +97,7 @@
     "extensionButton.prominentHoverBackground": "#4c566a",
     "focusBorder": "#00000000",
     "foreground": "#7b88a1",
-    "gitDecoration.addedResourceForeground": "#a3be8c",
+    "gitDecoration.addedResourceForeground": "#9aefea",
     "gitDecoration.deletedResourceForeground": "#bf616a",
     "gitDecoration.ignoredResourceForeground": "#7d7c9b",
     "gitDecoration.modifiedResourceForeground": "#ebcb8b",
@@ -174,8 +174,8 @@
     "editor.snippetTabstopHighlightBackground": "#7b88a155",
     "statusBar.background": "#191c22",
     "statusBar.border": "#272c3600",
-    "statusBar.debuggingBackground": "#434c5e",
-    "statusBar.debuggingForeground": "#d8dee9",
+    "statusBar.debuggingBackground": "#dda2f6",
+    "statusBar.debuggingForeground": "#191c22",
     "statusBar.foreground": "#7b88a1",
     "statusBar.noFolderBackground": "#191c22",
     "statusBar.noFolderForeground": "#d8dee9",
@@ -384,9 +384,21 @@
       }
     },
     {
+      "scope": "fenced_code.block.language.markdown",
+      "settings": {
+        "foreground": "#A571F4"
+      }
+    },
+    {
       "scope": "punctuation.definition.comment",
       "settings": {
         "foreground": "#555C77"
+      }
+    },
+    {
+      "scope": "punctuation.definition",
+      "settings": {
+        "foreground": "#7e7edd"
       }
     },
     {
@@ -466,7 +478,7 @@
     {
       "scope": "entity.name.section",
       "settings": {
-        "foreground": "#F5FAFF"
+        "foreground": "#A571F4"
       }
     },
     {
@@ -597,7 +609,7 @@
     {
       "scope": "markup.heading punctuation.definition.heading",
       "settings": {
-        "foreground": "#F5FAFF"
+        "foreground": "#A571F4"
       }
     },
     {

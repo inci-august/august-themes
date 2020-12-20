@@ -997,10 +997,25 @@
       "name": "[Markdown] Markup Fenced Code Block",
       "scope": [
         "text.html.markdown markup.fenced_code.block",
+      ],
+      "settings": {
+        "foreground": "#7B88A1"
+      }
+    },
+    {
+      "name": "[Markdown] Markup Fenced Code Block Punctuation",
+      "scope": [
         "text.html.markdown markup.fenced_code.block punctuation.definition"
       ],
       "settings": {
-        "foreground": "#8FBCBB"
+        "foreground": "#d8dee9"
+      }
+    },
+    {
+      "name": "[Markdown] Markup Fenced Code Block Language",
+      "scope": "fenced_code.block.language",
+      "settings": {
+        "foreground": "#d8dee9"
       }
     },
     {

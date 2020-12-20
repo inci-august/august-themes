@@ -299,7 +299,14 @@
       "name": "Punctuation",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#718CA1"
+        "foreground": "#70e1e8"
+      }
+    },
+    {
+      "name": "Code Block Language",
+      "scope": "fenced_code.block.language.markdown",
+      "settings": {
+        "foreground": "#70e1e8"
       }
     },
     {
