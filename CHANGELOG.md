@@ -2,6 +2,12 @@
 
 All notable changes to the "august-themes" extension will be documented in this file.
 
+## **`[2.2.1]` - `2020.12.20`**
+
+### Changed
+
+- some colors
+
 ## **`[2.2.0]` - `2020.11.05`**
 
 ### Added
