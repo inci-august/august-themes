@@ -591,14 +591,14 @@
         "text.html.markdown markup.fenced_code.block punctuation.definition"
       ],
       "settings": {
-        "foreground": "#fa61b8"
+        "foreground": "#D5358F"
       }
     },
     {
       "name": "[Markdown] Markup Fenced Code Block Language",
       "scope": "fenced_code.block.language",
       "settings": {
-        "foreground": "#fa61b8"
+        "foreground": "#D5358F"
       }
     },
     {
