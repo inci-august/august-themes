@@ -2,7 +2,7 @@
 
 All notable changes to the "august-themes" extension will be documented in this file.
 
-## **`[2.3.0]` - `2022.04.05`**
+## **`[2.5.0]` - `2022.04.05`**
 
 ### Added
 
