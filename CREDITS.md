@@ -9,6 +9,7 @@
 - [Nord](https://marketplace.visualstudio.com/items?itemName=arcticicestudio.nord-visual-studio-code)
 - [Material](https://github.com/material-theme/vsc-material-theme)
 - [Radical](https://marketplace.visualstudio.com/items?itemName=dhedgecock.radical-vscode)
+- [Rosé Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
 
 🔠 Font used in demos - [Gintronic](https://bboxtype.com/typefaces/Gintronic/#!layout=specimen)
 <br>

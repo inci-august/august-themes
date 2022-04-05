@@ -2,7 +2,7 @@
   "name": "august-themes",
   "displayName": "August Themes",
   "description": "‧ ˙ᕀ ✧ᱸ༝ ‧ Dark Visual Studio Code themes made even darker and perfect ‧ ˙ᕀ ✧ᱸ༝ ‧",
-  "version": "2.2.3",
+  "version": "2.2.1",
   "publisher": "inci-august",
   "license": "MIT",
   "repository": {
@@ -147,6 +147,16 @@
         "label": "August - Gruvbox (Darker)",
         "uiTheme": "vs-dark",
         "path": "./themes/august-gruvbox-darker.json"
+      },
+      {
+        "label": "August - Rosé Pine",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-rose-pine.json"
+      },
+      {
+        "label": "August - Rosé Pine Moon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-rose-pine-moon.json"
       }
     ]
   }
