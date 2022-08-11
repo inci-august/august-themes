@@ -159,5 +159,10 @@
         "path": "./themes/august-rose-pine-moon.json"
       }
     ]
+  },
+  "scripts": {
+    "publish-patch": "vsce publish patch -m ':arrow_up: patch update (%s)'",
+    "publish-minor": "vsce publish patch -m ':arrow_up: minor update (%s)'",
+    "publish-major": "vsce publish patch -m ':arrow_up: major update (%s)'"
   }
 }

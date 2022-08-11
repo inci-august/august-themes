@@ -2,6 +2,12 @@
 
 All notable changes to the "august-themes" extension will be documented in this file.
 
+## **`[2.5.1]` - `2022.08.11`**
+
+### Fixed
+
+- 🩹 color issue in nord themes
+
 ## **`[2.5.0]` - `2022.04.05`**
 
 ### Added
