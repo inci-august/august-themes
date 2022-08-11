@@ -112,6 +112,7 @@
     "inputValidation.errorBorder": "#bf616a",
     "inputValidation.infoBackground": "#81a1c1",
     "inputValidation.infoBorder": "#81a1c1",
+    "inputValidation.infoForeground": "#2E3440",
     "inputValidation.warningBackground": "#d08770",
     "inputValidation.warningBorder": "#d08770",
     "list.activeSelectionBackground": "#2c323e",
