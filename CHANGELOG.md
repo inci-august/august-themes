@@ -2,6 +2,12 @@
 
 All notable changes to the "august-themes" extension will be documented in this file.
 
+## **`[2.5.2]` - `2022.11.14`**
+
+### Added
+
+- inlay hint colors to the themes
+
 ## **`[2.5.1]` - `2022.08.11`**
 
 ### Fixed

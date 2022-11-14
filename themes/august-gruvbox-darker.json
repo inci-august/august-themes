@@ -51,6 +51,12 @@
     "editorIndentGuide.activeBackground": "#a8998450",
     "editorIndentGuide.background": "#a8998420",
     "editorInfo.foreground": "#458588",
+    "editorInlayHint.background": "#00000000",
+    "editorInlayHint.foreground": "#83a59877",
+    "editorInlayHint.parameterBackground": "#00000000",
+    "editorInlayHint.parameterForeground": "#83a59877",
+    "editorInlayHint.typeBackground": "#00000000",
+    "editorInlayHint.typeForeground": "#83a59877",
     "editorLineNumber.foreground": "#665c54",
     "editorLink.activeForeground": "#ebdbb2",
     "editorOverviewRuler.addedForeground": "#B8BB2699",
@@ -418,7 +424,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#928374",
+        "foreground": "#83a59899",
         "fontStyle": "italic"
       }
     },

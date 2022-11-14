@@ -38,7 +38,7 @@
     "editor.lineHighlightBackground": "#13152099",
     "editor.lineHighlightBorder": "#131520",
     "editor.rangeHighlightBackground": "#252a41",
-    "editor.selectionBackground": "#131520",
+    "editor.selectionBackground": "#7289fd33",
     "editor.selectionHighlightBackground": "#252a41",
     "editor.wordHighlightBackground": "#252a41",
     "editor.wordHighlightStrongBackground": "#252a41",
@@ -65,6 +65,12 @@
     "editorHoverWidget.foreground": "#b8cdfe",
     "editorIndentGuide.activeBackground": "#444b6f",
     "editorIndentGuide.background": "#252a41",
+    "editorInlayHint.background": "#00000000",
+    "editorInlayHint.foreground": "#516aec99",
+    "editorInlayHint.parameterBackground": "#00000000",
+    "editorInlayHint.parameterForeground": "#516aec99",
+    "editorInlayHint.typeBackground": "#00000000",
+    "editorInlayHint.typeForeground": "#516aec99",
     "editorLineNumber.activeForeground": "#b8cdfe",
     "editorLineNumber.foreground": "#444b6f",
     "editorLink.activeForeground": "#516aec",
@@ -239,7 +245,7 @@
     "tree.indentGuidesStroke": "#b8cdfe33",
     "walkThrough.embeddedEditorBackground": "#0d0e15",
     "welcomePage.buttonBackground": "#0d0e15",
-    "welcomePage.buttonHoverBackground": "#0d0e15",
+    "welcomePage.buttonHoverBackground": "#0d0e15"
   },
   "tokenColors": [
     {
