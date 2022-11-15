@@ -36,6 +36,14 @@
 
 <img width="750px" height="auto" src="imgs/august-nord.png" />
 
+<h4 style="letter-spacing: 2px; text-transform: uppercase">Night Owl</h4>
+
+<img width="750px" height="auto" src="imgs/august-night-owl.png" />
+
+<h4 style="letter-spacing: 2px; text-transform: uppercase">Rosé Pine</h4>
+
+<img width="750px" height="auto" src="imgs/august-rose-pine.png" />
+
 <h4 style="letter-spacing: 2px; text-transform: uppercase"><a href="https://tinyurl.com/yctt6ko8" >Credits</a></h4>
 
 </div>

@@ -11,6 +11,6 @@
 - [Radical](https://marketplace.visualstudio.com/items?itemName=dhedgecock.radical-vscode)
 - [Rosé Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
 
-🔠 Font used in demos - [Gintronic](https://bboxtype.com/typefaces/Gintronic/#!layout=specimen)
+🔤 Font used in demos - [Dank Mono](https://philpl.gumroad.com/l/dank-mono)
 <br>
 🌸 Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
