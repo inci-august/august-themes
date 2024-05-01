@@ -2,6 +2,12 @@
 
 All notable changes to the "august-themes" extension will be documented in this file.
 
+## **`[2.6.0]` - `2024.05.01`**
+
+### Added
+
+- ✨ BeardedTheme Oceanic Reversed
+
 ## **`[2.5.2]` - `2022.11.14`**
 
 ### Added

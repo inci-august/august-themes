@@ -157,6 +157,11 @@
         "label": "August - Rosé Pine Moon",
         "uiTheme": "vs-dark",
         "path": "./themes/august-rose-pine-moon.json"
+      },
+      {
+        "label": "August - BeardedTheme Oceanic Reversed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-bearded-oceanic-reversed.json"
       }
     ]
   },

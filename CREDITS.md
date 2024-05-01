@@ -10,6 +10,7 @@
 - [Material](https://github.com/material-theme/vsc-material-theme)
 - [Radical](https://marketplace.visualstudio.com/items?itemName=dhedgecock.radical-vscode)
 - [Rosé Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
+- [BearerTheme](https://github.com/BeardedBear/bearded-theme)
 
 🔤 Font used in demos - [Dank Mono](https://philpl.gumroad.com/l/dank-mono)
 <br>
