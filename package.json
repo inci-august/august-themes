@@ -29,7 +29,8 @@
     "Nord Theme",
     "Papers, Please Theme",
     "Radical Theme",
-    "In Bed By 7pm"
+    "In Bed By 7pm",
+    "Kanagawa Theme"
   ],
   "contributes": {
     "themes": [
@@ -162,6 +163,16 @@
         "label": "August - BeardedTheme Oceanic Reversed",
         "uiTheme": "vs-dark",
         "path": "./themes/august-bearded-oceanic-reversed.json"
+      },
+      {
+        "label": "August - Kanagawa",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-kanagawa.json"
+      },
+      {
+        "label": "August - Kanagawa (Darker)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-kanagawa-darker.json"
       }
     ]
   },

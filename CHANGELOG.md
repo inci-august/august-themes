@@ -2,6 +2,12 @@
 
 All notable changes to the "august-themes" extension will be documented in this file.
 
+## **`[2.7.0]` - `2024.06.25`**
+
+### Added
+
+- ✨ Kanagawa & Kanagawa Darker themes
+
 ## **`[2.6.0]` - `2024.05.01`**
 
 ### Added
