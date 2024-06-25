@@ -1,8 +1,8 @@
-import React from 'react';
-import calculate from '../logic/calculate';
-import './App.css';
-import ButtonPanel from './ButtonPanel';
-import Display from './Display';
+import React from 'react'
+import calculate from '../logic/calculate'
+import './App.css'
+import ButtonPanel from './ButtonPanel'
+import Display from './Display'
 
 class App extends React.Component {
   constructor(props) {
@@ -10,11 +10,11 @@ class App extends React.Component {
     this.state = {
       total: null,
       next: null,
-      operation: null
+      operation: null,
     }
   }
 
-  handleClick = buttonName => {
+  handleClick = (buttonName) => {
     this.setState(calculate(this.state, buttonName))
   }
 

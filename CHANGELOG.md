@@ -7,6 +7,7 @@ All notable changes to the "august-themes" extension will be documented in this 
 ### Added
 
 - ✨ Kanagawa & Kanagawa Darker themes
+- ✨ Catpuccin theme
 
 ## **`[2.6.0]` - `2024.05.01`**
 

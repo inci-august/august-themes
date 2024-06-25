@@ -12,6 +12,7 @@
 - [Rosé Pine](https://marketplace.visualstudio.com/items?itemName=mvllow.rose-pine)
 - [BearerTheme](https://github.com/BeardedBear/bearded-theme)
 - [Kanagawa](https://marketplace.visualstudio.com/items?itemName=qufiwefefwoyn.kanagawa)
+- [Catppuccin Themes](https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc)
 
 🔤 Font used in demos - [Dank Mono](https://philpl.gumroad.com/l/dank-mono)
 <br>
