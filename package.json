@@ -166,6 +166,11 @@
         "path": "./themes/august-bearded-oceanic-reversed.json"
       },
       {
+        "label": "August - BeardedTheme Surprising Blueberry",
+        "uiTheme": "vs-dark",
+        "path": "./themes/august-bearded-surprising-blueberry.json"
+      },
+      {
         "label": "August - Kanagawa",
         "uiTheme": "vs-dark",
         "path": "./themes/august-kanagawa.json"

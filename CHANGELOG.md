@@ -2,6 +2,12 @@
 
 All notable changes to the "august-themes" extension will be documented in this file.
 
+## **`[2.8.0]` - `2026.01.07`**
+
+### Added
+
+- ✨ BeardedTheme Surprising Blueberry theme
+
 ## **`[2.7.0]` - `2024.06.25`**
 
 ### Added
